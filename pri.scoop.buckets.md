@@ -2,11 +2,11 @@
 id: o74nl4naf2huytul33b9oq1
 title: Buckets
 desc: ''
-updated: 1695124570671
+updated: 1695126194225
 created: 1695101354296
 ---
 
-##install scripts scoop
+# Installation scripts for scoop
 
 ## Installation mit Angabe des Verzeichnisses
 ```powershell
